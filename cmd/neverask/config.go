@@ -1,6 +1,0 @@
-package neverask
-
-
-func FetchConfig(){
-
-}
