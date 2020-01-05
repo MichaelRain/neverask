@@ -1,0 +1,9 @@
+web:
+  addr: :8081
+  shutdownTimeout: 12000000
+  readTimeout: 12000000
+  writeTimeout: 1200000
+redis:
+  masterName: master      # Название кластера Sentinels
+  password: password
+  addr: 'localhost:6379'  # Строка адреса с портом
